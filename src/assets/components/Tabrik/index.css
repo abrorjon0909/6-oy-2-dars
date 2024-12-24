@@ -1,0 +1,13 @@
+.tabrik {
+    border: 1px ridge black;
+    border-radius: 10px;
+    background-color: bisque;
+    font-family: sans-serif;
+    max-width: 350px;
+    text-align: center;
+    transition: 0.4s;
+}
+.tabrik:hover {
+    background-color: aquamarine;
+    border: 10px solid aqua;
+}

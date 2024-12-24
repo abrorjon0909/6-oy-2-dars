@@ -1,0 +1,9 @@
+.week {
+    display: flex;
+    gap: 50px;
+}
+
+.week li a {
+    text-decoration: none;
+    outline: none;
+}

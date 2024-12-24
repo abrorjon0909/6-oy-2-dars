@@ -1,0 +1,34 @@
+.fasl-wrap {
+    border: 1px solid black;
+    max-width: 500px;
+    text-align: center;
+}
+
+.bahor {
+    border: 5px solid black;
+    transition: 0.4s;
+}
+.bahor:hover {
+    background-color: green;
+}
+.yoz {
+    border: 5px solid black;
+    transition: 0.4s;
+}
+.yoz:hover {
+    background-color: yellow;
+}
+.kuz {
+    border: 5px solid black;
+    transition: 0.4s;
+}
+.kuz:hover {
+    background-color: orange;
+}
+.qish {
+    border: 5px solid black;
+    transition: 0.4s;
+}
+.qish:hover {
+    background-color: lightblue;
+}
